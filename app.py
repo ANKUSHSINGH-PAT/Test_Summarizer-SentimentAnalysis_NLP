@@ -14,7 +14,7 @@ def draw_all(
 ):
     st.write(
         """
-        # NLP Web App
+        # NLP -Web App
         
         This Natural Language Processing Based Web App can do anything u can imagine with Text. 😱 
         
