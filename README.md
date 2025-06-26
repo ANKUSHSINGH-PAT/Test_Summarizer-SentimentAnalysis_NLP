@@ -1,8 +1,29 @@
-# NLP Based Web App - Summarizer, Sentiment Analysis, NER, Text Completion and Question Answering
+NLP Web App – All-in-One Text Intelligence Platform
+Welcome to a powerful Natural Language Processing (NLP) web app built using state-of-the-art Hugging Face Transformers and spaCy!
 
-## Project Overview
+This application supports a range of advanced NLP tasks:
 
-In this Natural Language Processing based web app we have used hugging face transformers for advanced text summarization, Sentiment Analysis, Text Completion and Question Answering while for Named Entity Recognition (NER) we have employed spacy - transformers. This web app is a complete NLP solution with advanced transformers. Further we will be adding Keyword Extractor and much more. This app can be used for multiple textual based tasks in daily life.  
+✅ Text Summarization
+
+✅ Sentiment Analysis
+
+✅ Text Completion
+
+✅ Question Answering (QA)
+
+✅ Named Entity Recognition (NER) using spacy-transformers
+
+🔍 A complete NLP toolkit designed for real-world, multi-purpose textual tasks – whether you're analyzing emails, summarizing articles, or extracting entities from raw text.
+
+✨ Features
+Built with transformer-based models for high performance and accuracy
+
+Modular design for easily adding new features like Keyword Extraction, Topic Modeling, etc.
+
+Clean, responsive web interface for daily use
+
+🔗 Live Demo
+🚀 Access the live web app here (insert your link)
 
 The screenshots of the app is shown below. The web app can be accessed by clicker [here](https://share.streamlit.io/sid321axn/nlp_webapp/main/app.py)
 
