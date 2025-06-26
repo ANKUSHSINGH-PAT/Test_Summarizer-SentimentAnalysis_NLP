@@ -30,6 +30,10 @@ The screenshots of the app is shown below. The web app can be accessed by clicke
 ![Screenshot Predict](https://i.ibb.co/tbtwwyF/NLP-APP.png)
 ![image](https://github.com/user-attachments/assets/46dac527-e373-47db-b49e-7536a560c819)
 ![image](https://github.com/user-attachments/assets/922a7795-369f-440f-8b9c-427f101c984f)
+![image](https://github.com/user-attachments/assets/c6f09726-1ebc-4a4d-9641-090d1641f366)
+![image](https://github.com/user-attachments/assets/7ec80282-947d-421e-b1c9-351c8fdf09c0)
+
+
 
 
 
